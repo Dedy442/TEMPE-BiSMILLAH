@@ -13,14 +13,10 @@
         <section id="daftar-produk">
             <h2>Produk Unggulan</h2>
             <div class="produk">
-                <img src="tempe_mendoan.jpg" alt="Tempe Mendoan" width="200">
-                <h3>Tempe Mendoan</h3>
-                <p>Tempe tipis yang digoreng setengah matang, gurih dan lezat.</p>
-                <p>Harga: Rp 5.000/bungkus</p>
-                <button>Pesan Sekarang</button>
-            </div>
-            <div class="produk">
-                <img src="tempe_kedelai.jpg" alt="Tempe Kedelai" width="200">
+                <img 
+                <h3>Tempe 
+                <button>Pesan 
+                    ="tempe_kedelai.jpg" alt="Tempe Kedelai" width="200">
                 <h3>Tempe Kedelai</h3>
                 <p>Tempe tradisional yang terbuat dari kedelai pilihan.</p>
                 <p>Harga: Rp 3.000/papan</p>
